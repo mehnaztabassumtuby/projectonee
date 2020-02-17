@@ -1,0 +1,33 @@
+body{background:#cebfbf}
+
+
+
+div{
+      width: 900px;
+    /* width: 1000px; */
+    margin: left;
+    margin-left: auto;
+    /* margin-left: auto; */
+    background: #d4b99e;
+    /* background: #e8e3e3; */
+    margin-right: auto;
+    /* margin-right: auto; */
+    padding: 50px;
+
+}
+img{max-width: 250%
+}
+h1{
+background: blue;	
+text-align: left;
+	
+font-size: 50px;
+	
+margin: 0;
+
+}
+span{
+	color:#efe8e8;
+	text-shadow: 5px 5px 5px black;
+	text-transform: uppercase;
+}
